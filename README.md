@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Kolibri2048.github.io/rsschool-cv/cv
+https://github.com/Kolibri2048/rsschool-cv.git
