@@ -27,5 +27,6 @@ Purpose: will learn FrontEnd and BackEnd; learn Python;
 >> Polski B1
 >> English A1
 ---
-Education
+
+* Education
 Akademia Finansów i Biznesu Vistula
