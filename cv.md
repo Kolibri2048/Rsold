@@ -1,5 +1,5 @@
 ## Herman Hres
-###25.08.2001
+### 25.08.2001
 ---
 >>Warszawa, Polska
 tel. +48579552585
@@ -28,5 +28,4 @@ Purpose: will learn FrontEnd and BackEnd; learn Python;
 >> English A1
 ---
 Education
-GrSU n.Yanka Kupala
 Akademia Finansów i Biznesu Vistula
